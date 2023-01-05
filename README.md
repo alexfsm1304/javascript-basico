@@ -1,6 +1,6 @@
 # JavaScript Básico
 
-## 👨🏻‍💻 Fundamentos básicos do JavaScript, como tipos de variáveis, tipos de dados, loops e funções.
+## 👨🏻‍💻 Fundamentos básicos do JavaScript, como tipos de variáveis, tipos de dados, loops e funções do curso Formação FullStack JavaScript do [Thiago M. Medeiros](https://www.thiago-medeiros.com/v2/://git-scm.com).
 
 ![Badge](https://img.shields.io/badge/JavaScript-Básico-yellow) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/alexfsm1304/javascript-basico/blob/main/LICENSE)
