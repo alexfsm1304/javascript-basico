@@ -3,7 +3,7 @@
 ## 👨🏻‍💻 Fundamentos básicos do JavaScript, como tipos de variáveis, tipos de dados, loops e funções.
 
 ![Badge](https://img.shields.io/badge/JavaScript-Básico-yellow) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/alexfernando2000/collections/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/alexfsm1304/javascript-basico/blob/main/LICENSE)
 ![Badge](https://img.shields.io/badge/NodeJS-18.12.1-green) 
 
 ### 💻 Projeto Em Construção 🚧
